@@ -34,7 +34,7 @@ or [In French / En Français :fr:](https://github.com/kyle-lanier-mscs/ama.fr).
 
 ### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/kyle-lanier-mscs/ama.svg)](https://github.com/kyle-lanier-mscs/ama/blob/master/LICENSE)
 This (small) repository is published under the terms of the [MIT license](https://github.com/kyle-lanier-mscs/ama/blob/master/LICENSE) (file [LICENSE.txt](LICENSE.txt)).
-© [Kyle Lanier](https://GitHub.com/kyle-lanier-mscs), 2016-17.
+© [Kyle Lanier](https://GitHub.com/kyle-lanier-mscs), 2020-21.
 
 [![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/kyle-lanier-mscs/ama/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/kyle-lanier-mscs/ama)
